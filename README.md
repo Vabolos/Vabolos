@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://github.com/Vabolos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=24292e&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
 </div>
 
