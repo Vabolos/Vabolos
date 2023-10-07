@@ -64,4 +64,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vabolos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+
+<h3 align="center"> 🏆 Github Trophies
+###
+
+<div align="center">
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vabolos&theme=tokyonight&no-frame=true" alt="vabolos" /></a> </p>
+</div>div?
+
 ###
