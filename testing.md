@@ -4,7 +4,7 @@ I'm a code ninja 🚀 with a passion for building cool stuff. Here's a sneak pee
 
 ## 📊 GitHub Stats
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Vabolos-ma&theme=onedark)](https://github.com/Vabolos/github-profile-trophy)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Vabolos-ma&theme=onedark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark)
 
