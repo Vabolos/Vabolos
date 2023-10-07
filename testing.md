@@ -4,9 +4,9 @@ I'm a code ninja 🚀 with a passion for building cool stuff. Here's a sneak pee
 
 ## 📊 GitHub Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vabolos" alt="vabolos" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vabolos&theme=onedark" alt="vabolos" /></a> </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vabolos&show_icons=true&count_private=true&theme=dark)
 
 ## 💻 Tech Stack
 
