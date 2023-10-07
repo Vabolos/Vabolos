@@ -13,12 +13,6 @@
   </a>
 </div>
 
-###
-
-<h1 align="center">hey there! 👋 My name is Luc and I'm an IT student</h1>
-
-###
-
 <h3 align="center">🛠 Language and tools I have experience with:</h3>
 
 ###
