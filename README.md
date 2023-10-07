@@ -70,9 +70,7 @@
 ###
 
 <div align="center">
-  ```
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vabolos&theme=tokyonight&no-frame=true" alt="vabolos" /></a> </p>
-  ```
 </div>
 
 ###
