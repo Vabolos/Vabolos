@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+
 
 ###
 
@@ -52,6 +52,8 @@
 </div>
 
 ###
+
+<h3 align="center">🔗   Social/Links :</h3>
 
 <div align="center">
   <a href="https://discord.gg/pvk8p5y6kP" target="_blank">
