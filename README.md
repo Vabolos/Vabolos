@@ -58,11 +58,14 @@
 ###
 
 <div align="center">
+  <a href="https://stackoverflow.com/users/20563812/vabolos?tab=profile" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
   <a href="[vabolos](https://discord.gg/pvk8p5y6kP)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/20563812/vabolos?tab=profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  <a href="https://github.com/Vabolos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
 </div>
 
